@@ -1,7 +1,7 @@
 # JWT Playground
 
 ```bash
-https://jwt-playground.herokuapp.com/
+https://jwt-playground.vercel.app/
 ```
 
 ### Preview
