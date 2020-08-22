@@ -47,7 +47,7 @@ import axios from "axios";
 export default {
   data() {
     return {
-      baseURL: "http://localhost:3001",
+      baseURL: "https://jwt-playground.herokuapp.com",
       msg: "",
       error: false,
     };
